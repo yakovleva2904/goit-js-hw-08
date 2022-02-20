@@ -25,3 +25,4 @@ const lightbox = new SimpleLightbox('.gallery a', { /* options */
     captionPosition: 'bottom',
 
 });
+// DONE
